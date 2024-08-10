@@ -10,6 +10,8 @@
 <div align="left">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kde0707&layout=compact)](https://github.com/kde0707/github-readme-stats)
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- Frontend -->
