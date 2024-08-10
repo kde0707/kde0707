@@ -14,7 +14,7 @@
   <!-- Frontend -->
 
 <a href="https://bevel-sodium-cf0.notion.site/074f3a250fb8476b9cef72f0a9d1b568" target="_blank">
-    <img src="https://symbl-world.akamaized.net/i/webp/47/3740082e5baccf672605165275af0c.webp" alt="Clickable Image" width="100" />
+    <img src="https://cdn.pixabay.com/photo/2016/03/31/21/17/citrus-1296303_1280.png" alt="Clickable Image" width="150" />
 </a>
   
 <h2 class="heading-element" align="left" dir="auto">💛 Once I've used 💛</h2>
