@@ -16,8 +16,9 @@
 <a href="https://bevel-sodium-cf0.notion.site/074f3a250fb8476b9cef72f0a9d1b568" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2016/03/31/21/17/citrus-1296303_1280.png" alt="Clickable Image" width="125" />
 </a>
-  
-<h2 class="heading-element" align="left" dir="auto">🟡 Once I've used 🟡</h2>
+  <br><br>
+<h2 class="heading-element" align="left" dir="auto">💛 Once I've used 💛</h2>
+
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- Frontend -->
