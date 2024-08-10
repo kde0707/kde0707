@@ -54,6 +54,11 @@
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </div>
+    <p><strong>Development Tools</strong></p>
+      <div>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000020.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    </div>
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
