@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fffacd&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=fffacd&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+kde's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFD700&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+kde's+GitHub!👋)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://hits.seeyoufarm.com">
@@ -67,7 +67,7 @@
 </div><br>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fffacd&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer" />
 
 <!--
 **kde0707/kde0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
