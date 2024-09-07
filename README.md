@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFD700&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+kde's+GitHub!👋)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome+to+kde's+GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 
 <div align="left">
   <a href="https://hits.seeyoufarm.com">
