@@ -1,83 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome+to+kde's+GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 
-<div align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FEEB9E&center=true&vCenter=true&repeat=false&width=500&lines=Hello,+I'm+Daeun!+💛" alt="Typing SVG" />
+  </a>
+</p>
+
+
+  <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkde0707&count_bg=%2396A23D&title_bg=%23F28627&icon=swarm.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
   </a>
 </div>
-<div align="left">
-</div>
-<h2 class="heading-element" align="left" dir="auto">💛 Portfolio 💛</h2>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  
-  <!-- Frontend -->
- <img src="https://cdn.pixabay.com/photo/2016/03/31/21/17/citrus-1296303_1280.png" alt="Clickable Image" width="125" />
- 
-<a href="https://bevel-sodium-cf0.notion.site/074f3a250fb8476b9cef72f0a9d1b568" target="_blank">
-</a>
+<div align="center">
 
-  <br>
-<h2 class="heading-element" align="left" dir="auto">💛 Once I've used 💛</h2>
+<h2 align="center"> Tech Stack </h2>
 
-
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
+![Front-end](https://skillicons.dev/icons?i=html,css,js)<br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    </div>
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
+
+![Front-end](https://skillicons.dev/icons?i=java,spring)<br>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+        
+![Front-end](https://skillicons.dev/icons?i=mysql)<br>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    </div>
-    <!-- Others -->
-    <p><strong>Version Control</strong></p>
-      <div>
+
+![Front-end](https://skillicons.dev/icons?i=idea,eclipse)<br>
+ <img src="https://img.shields.io/badge/IntelliJ_IDEA-000020.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+        
+![Front-end](https://skillicons.dev/icons?i=github,figma,notion,discord)<br>
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </div>
-    <p><strong>Development Tools</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000020.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    </div>
-    <p><strong>Others</strong></p>
-    <div>
+        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div><br>
+    </div>
 </div>
-
-<!--
-**kde0707/kde0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
