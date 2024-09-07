@@ -4,8 +4,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FEEB9E&center=true&vCenter=true&repeat=false&width=500&lines=Hello,+I'm+Daeun!+💛" alt="Typing SVG" />
   </a>
 </p>
-
-
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kde0707?pet-id=620264740126356871"
+    width="600"
+    height="120"
+  />
+</a>
+  </p>
   <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkde0707&count_bg=%2396A23D&title_bg=%23F28627&icon=swarm.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
