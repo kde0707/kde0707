@@ -9,7 +9,7 @@
   <img
     src="https://render.gitanimals.org/lines/kde0707?pet-id=620264740126356871"
     width="600"
-    height="120"
+    height="100"
   />
 </a>
   </p>
