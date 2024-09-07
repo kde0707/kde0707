@@ -67,8 +67,6 @@
 </div><br>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer" />
-
 <!--
 **kde0707/kde0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
