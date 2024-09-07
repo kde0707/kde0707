@@ -1,15 +1,15 @@
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FEEB9E&center=true&vCenter=true&repeat=false&width=500&lines=Hello,+I'm+Daeun!+💛" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
+  
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/kde0707?pet-id=620264740126356871"
     width="600"
-    height="100"
+    height="120"
   />
 </a>
   </p>
